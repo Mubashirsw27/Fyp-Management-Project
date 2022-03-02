@@ -27,24 +27,24 @@ const Signup = () => {
                     <div className="row g-0">
                       <div className="col-10 col-lg-9 mx-auto">
                         <div className="logo mt-5 mb-5 mb-md-0">
-                          {" "}
                           <a
                             className="d-flex"
                             href="index.html"
-                            title="Payyed - HTML Template"
+                            title="Final year management system - HTML Template"
                           >
-                            <img src="images/logo-light.png" alt="Payyed" />
-                          </a>{" "}
+                            <h2 className="text-light">Final Year Management System</h2>
+                            {/* <img src="images/logo-light.png" alt="Payyed" /> */}
+                          </a>
                         </div>
                       </div>
                     </div>
                     <div className="row g-0 my-auto">
                       <div className="col-10 col-lg-9 mx-auto">
                         <h1 className="text-11 text-white mb-4">
-                          Get Verified!
+                          Register Now!!!
                         </h1>
                         <p className="text-4 text-white lh-base mb-5">
-                          Every day, Payyed makes thousands of customers happy.
+                          Get yourself registered
                         </p>
                       </div>
                     </div>

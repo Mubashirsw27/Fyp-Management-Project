@@ -33,7 +33,7 @@ const Login = () => {
                             title="Payyed - HTML Template"
                           >
                             {/* <img src="images/logo-light.png" alt="Payyed" /> */}
-                            <h2>Final Year Manegement System</h2>
+                            <h2 className="text-light">Final Year Manegement System</h2>
                           </a>
                         </div>
                       </div>
@@ -44,9 +44,7 @@ const Login = () => {
                           Welcome back!
                         </h1>
                         <p className="text-4 text-white lh-base mb-5">
-                          We are glad to see you again! Instant deposits,
-                          withdrawals &amp; payouts trusted by millions
-                          worldwide.
+                          We are glad to see you again!.
                         </p>
                       </div>
                     </div>
